@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500000,
+      "id": 1,
+      "title": "Yamaha r1",
+      "imgURL": "https://cdn.shopify.com/s/files/1/0270/8992/8310/products/R1_2021_600x.jpg?v=1615749978"
+    },
+    {
+      "precio": 300000,
+      "id": 2,
+      "title": "Kawasaki Z1000",
+      "imgURL": "https://motosnortehfr.com/wp-content/uploads/2022/09/Z1000-2022-NegroVerde-foto1-600x600.jpg"
+    },
+    {
+      "precio": 450000,
+      "id": 3,
+      "title": "Ducati Panigale",
+      "imgURL": "https://mes.1001hobbies.com/1612225-home_default/tamiya-14132-ducati-1199-panicale-tricolore.jpg"
+    },
+    {
+      "precio": 550000,
+      "id": 4,
+      "title": "Aprilia RSV4",
+      "imgURL": "https://p.turbosquid.com/ts-thumb/1w/wtNgFn/NcY0G2g4/aprilia_rsv4_rf_2018_600_0001/jpg/1577187493/600x600/fit_q87/1f33a39f962c395e72c6bf211a41d0d9490aee63/aprilia_rsv4_rf_2018_600_0001.jpg"
+    },
+    {
+      "precio": 600000,
+      "id": 5,
+      "title": "BMW s1000RR",
+      "imgURL": "https://i.pinimg.com/736x/71/cd/26/71cd26db17ca2a04190deaea250a96de.jpg"
+    },
+    {
+      "precio": 350000,
+      "id": 6,
+      "title": "Honda CBR 1000",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAO8IeMbUJGpACugZ_9_7Z1kskTrdfo9o_GX9S-zT6DbFfdkR1h-pJrKs3-at9Pc3Q4B8&usqp=CAU"
+    }
+  ]
